@@ -1,0 +1,10 @@
+train loss / accuracy at epoch 1/10000 : 2.238997825746389 / 0.22
+test loss / accuracy at epoch 1/10000 : 2.2886913486269544 / 0.1069
+
+train loss / accuracy at epoch 101/10000 : 1.0959122204408143 / 0.69
+test loss / accuracy at epoch 101/10000 : 1.0557593618005672 / 0.7667
+
+train loss / accuracy at epoch 201/10000 : 0.7284302990635803 / 0.86
+test loss / accuracy at epoch 201/10000 : 0.7554040000139679 / 0.8172
+
+너무 오래 걸려서 중단
